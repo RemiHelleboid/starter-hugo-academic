@@ -6,7 +6,7 @@ title: Modeling of SPAD avalanche breakdown probability and jitter tail with fie
 subtitle: ''
 summary: ''
 authors:
-- Rémi Helleboid
+- admin
 - Denis Rideau
 - Jeremy Grebot
 - Isobel Nicholson

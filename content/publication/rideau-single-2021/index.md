@@ -9,7 +9,7 @@ authors:
 - D. Rideau
 - Y. Oussaiti
 - J. Grebot
-- R. Helleboid
+- admin
 - A. Lopez
 - G. Mugny
 - E. Bourreau

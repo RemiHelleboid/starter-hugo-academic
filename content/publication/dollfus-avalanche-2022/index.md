@@ -8,7 +8,7 @@ authors:
 - P. Dollfus
 - J. Saint-Martin
 - T. Cazimajou
-- R. Helleboid
+- admin
 - A. Pilotto
 - D. Rideau
 - A. Bournel

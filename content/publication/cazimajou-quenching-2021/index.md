@@ -8,7 +8,7 @@ authors:
 - Thibauld Cazimajou
 - Marco Pala
 - Jérôme Saint-Martin
-- Rémi Helleboid
+- admin
 - Jérémy Grebot
 - Denis Rideau
 - Philippe Dollfus

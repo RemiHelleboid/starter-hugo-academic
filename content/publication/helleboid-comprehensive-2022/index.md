@@ -6,7 +6,7 @@ title: Comprehensive Modeling and Characterization of Photon Detection Efficienc
 subtitle: ''
 summary: ''
 authors:
-- Rémi Helleboid
+- admin
 - Denis Rideau
 - Jeremy Grebot
 - Isobel Nicholson

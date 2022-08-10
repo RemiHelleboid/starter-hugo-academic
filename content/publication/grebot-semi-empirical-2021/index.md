@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Jérémy Grebot
 - Gabriel Mugny
-- Remi Helleboid
+- admin
 - Isobel Nicholson
 - Francesco Abbate
 - Denis Rideau

@@ -11,7 +11,7 @@ authors:
 - Christel Buj
 - Jean Coignus
 - Dominique Golanski
-- Rémi Helleboid
+- admin
 - Bastien Mamdy
 - Isobel Nicholson
 - Sara Pellegrini
