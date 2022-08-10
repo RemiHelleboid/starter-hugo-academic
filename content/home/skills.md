@@ -16,15 +16,24 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - icon: python
-    icon_pack: fab
-    name: Python
+  - icon: icon_atom
+    icon_pack: custom
+    name: Solid-State Physics
   - icon: icons8-c++
     icon_pack: custom
     name: C++ 
-  - icon: microscope
+  - icon: python
     icon_pack: fab
-    name: Solid-State Physics
+    name: Python
+  - icon: icon_hpc
+    icon_pack: custom
+    name: HPC - MPI & OpenMP
+  - icon: icon_electronic
+    icon_pack: custom
+    name: Electron devices
+  - icon: icon_math_tmp
+    icon_pack: custom
+    name: Applied Mathematics
 
 
 # Uncomment to use emoji icons.
