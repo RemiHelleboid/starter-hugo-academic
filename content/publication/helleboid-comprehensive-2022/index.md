@@ -38,7 +38,7 @@ title: Comprehensive Modeling and Characterization of Photon Detection
   Efficiency and Jitter Tail in Advanced SPAD Devices
 subtitle: ""
 publication: "*IEEE Journal of the Electron Devices Society*"
-featured: true
+featured: false
 tags:
   - Avalanche breakdown probability
   - breakdown voltage
@@ -56,11 +56,11 @@ tags:
 categories: []
 projects: []
 image:
-  caption: streamlines.png
+  caption: Streamlines.
   focal_point: Smart
   preview_only: false
   filename: streamlines.png
 date: 2022-01-01
-publishDate: 2022-08-10T22:29:28.999924Z
+publishDate: 2022-08-10T22:29:28.999Z
 doi: 10.1109/JEDS.2022.3168365
 ---
