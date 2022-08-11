@@ -32,10 +32,10 @@ education:
   courses:
     - course: PhD
       institution: C2N & CEA & STMicroelectronics
-      year: on going
+      year:  2021 - 2024
     - course: Master Degree in Mathematics
       institution: Sorbonne Université, Paris
-      year: 2019
+      year: 2020
 superuser: true
 highlight_name: true
 title: Rémi Helleboid
